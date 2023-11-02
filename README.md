@@ -6,13 +6,13 @@ Write a program to find minimum between two fraction numbers using conditional o
    
 2. Use the printf function to prompt the user to enter the first fraction number (numerator and denominator separately).
  
-3.Use the scanf function to read the numerator and denominator of the first fraction.
+3. Use the scanf function to read the numerator and denominator of the first fraction.
 
 4. Repeat steps 2 and 3 to get the second fraction from the user.
 
-5.Calculate the decimal values of both fractions by dividing the numerators by the denominators.
+5. Calculate the decimal values of both fractions by dividing the numerators by the denominators.
 
-6.Use the conditional (ternary) operator to compare the decimal values and store the minimum value in the result variable.
+6. Use the conditional (ternary) operator to compare the decimal values and store the minimum value in the result variable.
 
 7.Print the minimum value.
 ## PROGRAM:
