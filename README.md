@@ -14,7 +14,7 @@ Write a program to find minimum between two fraction numbers using conditional o
 
 6. Use the conditional (ternary) operator to compare the decimal values and store the minimum value in the result variable.
 
-7.Print the minimum value.
+7. Print the minimum value.
 ## PROGRAM:
 ```
 #include <stdio.h>
